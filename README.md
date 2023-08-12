@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello World # 
+## Meu nome é Rômulo  ##
+-Tenho 19 years
 
-<!--
-**isrmulo/isrmulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-Atualmente Cursando Ciência da Computação 
 
-Here are some ideas to get you started:
+-Em buscar de me tornar um programador fullstack 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-~~Apesar de não gostar tanto de front-end~~
+
+#  Minhas Redes Socias #
+
+__Linkedin__                                                                                                                           https://www.linkedin.com/in/rômulo-odorico-752420271/
+
+__GitHub__                                                                                                                                https://github.com/romuloptkk
