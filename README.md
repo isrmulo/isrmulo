@@ -7,7 +7,7 @@
 # Ferramentas👨‍💻
  <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,js,ts,react,nodejs,git,bootstrap,css" />
+    <img src="https://skillicons.dev/icons?i=html,js,ts,react,nodejs,git,bootstrap,css,npm" />
   </a>
 </p>
 
