@@ -5,9 +5,9 @@
 
      
 # Ferramentas👨‍💻
-<p align="center">
-  <a href="#">
-    <img src="[BASE_URL]?i=react,node.js,docker,mongodb,postgresql,awslambda" />
+ <p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,js,ts,react,nodejs,git,bootstrap,css,npm" />
   </a>
 </p>
 
