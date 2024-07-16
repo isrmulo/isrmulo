@@ -5,7 +5,11 @@
 
      
 # Ferramentas👨‍💻
-[![My Skills]([BASE_URL]?i=html,js,ts,react,nodejs,git,bootstrap,css,npm)
+<p align="center">
+  <a href="#">
+    <img src="[BASE_URL]?i=react,node.js,docker,mongodb,postgresql,awslambda" />
+  </a>
+</p>
 
  <br> 
 
