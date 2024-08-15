@@ -1,64 +1,64 @@
-<h2 alinhar="esquerda">Olá Mundo👋</h2>
+<h2 align="left">Olá Mundo👋</h2>
 
 ###
 
-<img alinhar="certo" alta="150" src="https://media.tenor.com/Rypu-zBagA4AAAAi/halloween-ghost.gif"  />
+<img align="right" height="150" src="https://media.tenor.com/Rypu-zBagA4AAAAi/halloween-ghost.gif"  />
 
 ###
 
-<div alinhar="esquerda">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alta="30" alt="logotipo javascript"  />
-  <img largura="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alta="30" alt="logotipo datilografado"  />
-  <img largura="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alta="30" alt="logotipo reaja"  />
-  <img largura="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alta="30" alt="logotipo HTML5"  />
-  <img largura="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alta="30" alt="logotipo CSS3"  />
-  <img largura="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alta="30" alt="logotipo npm"  />
-  <img largura="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alta="30" alt="logotipo Cplus"  />
-  <img largura="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alta="30" alt="logotipo Nodejs"  />
-  <img largura="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alta="30" alt="logotipo git"  />
-  <img largura="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alta="30" alt="bootstrap do logotipo"  />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
 </div>
 
 ###
 
-<div alinhar="esquerda">
-  <a href="https://www.instagram.com/isrmulo_/" alvo="_em branco">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=branco&labelColor=&estilo=for-the-badge" alta="35" alt="logotipo do Instagram"  />
+<div align="left">
+  <a href="https://www.instagram.com/isrmulo_/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=branco&labelColor=&estilo=for-the-badge" alta="35" alt="logotipo Discórdia"  />
-  <a href="https://t.me/HanSoloS2" alvo="_em branco">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=branco&labelColor=&estilo=for-the-badge" alta="35" alt="logotipo do telegrama"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="https://t.me/HanSoloS2" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
-  <a href="https://x.com/HanSolode4" alvo="_em branco">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=branco&labelColor=&estilo=for-the-badge" alta="35" alt="logotipo do Twitter"  />
+  <a href="https://x.com/HanSolode4" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
 
 ###
 
-<br claro="ambos">
+<br clear="both">
 
-<img src="https://raw.githubusercontent.com/isrmulo/isrmulo/output/snake.svg" alt="Animação cobra" />
+<img src="https://raw.githubusercontent.com/isrmulo/isrmulo/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<div alinhar="centro">
-  <img src="https://github-readme-stats.vercel.app/api?username=isrmulo&hide_title=false&esconder_rank=false&mostrar_icons=true&incluir_all_commits=true&count_private=true&desativar_animations=false&tema=drácula&localidade=en&hide_border=false&ordem=1" alta="150" alt="gráfico de estatísticas"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isrmulo&localidade=en&hide_title=false&layout=compacto&card_width=320&langs_count=5&tema=drácula&hide_border=false&ordem=2" alta="150" alt="gráfico de idiomas"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=isrmulo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isrmulo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<div alinhar="centro">
+<div align="center">
   <img src="https://profile-counter.glitch.me/isrmulo/count.svg?"  />
 </div>
 
