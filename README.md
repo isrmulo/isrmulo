@@ -10,9 +10,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://v0-junior-portfolio-mu.vercel.app/#sobre" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-34D399?style=for-the-badge&logo=Next.js&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfólio-34D399?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="mailto:seu-email-profissional@example.com" target="_blank"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:romuloodorico702@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
@@ -20,7 +21,9 @@
 
 ## 🚀 Sobre Mim
 
-<img align="right" height="150" src="https://media.tenor.com/Rypu-zBagA4AAAAi/halloween-ghost.gif"  /> Sou um desenvolvedor em formação com experiência em TI, focado em entregar soluções práticas e eficientes. Tenho me dedicado ao estudo de tecnologias como JavaScript, Python, React, Next.js e Node.js. Busco oportunidades para crescer profissionalmente, aplicar meus conhecimentos e contribuir com projetos de qualidade que impactem positivamente.
+<img align="right" height="150" src="https://media.tenor.com/Rypu-zBagA4AAAAi/halloween-ghost.gif"  />
+
+Sou um desenvolvedor em formação com experiência em TI, focado em entregar soluções práticas e eficientes. Tenho me dedicado ao estudo de tecnologias como JavaScript, Python, React, Next.js e Node.js. Busco oportunidades para crescer profissionalmente, aplicar meus conhecimentos e contribuir com projetos de qualidade que impactem positivamente.
 
 * 🌱 Atualmente aprendendo mais sobre: **[Complete aqui: ex: Arquitetura de Microserviços, Testes Automatizados Avançados, etc.]**
 * 💬 Pergunte-me sobre: JavaScript, React, Next.js, Node.js, Desenvolvimento Web em geral.
@@ -55,7 +58,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo" title="npm"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" title="C++"/> </p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" title="C++"/>
+</p>
 
 ---
 
@@ -79,7 +83,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn logo"/>
   </a>
   <a href="https://v0-junior-portfolio-mu.vercel.app/#sobre" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-34D399?style=for-the-badge&logo=Next.js&logoColor=white" height="35" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfólio-34D399?style=for-the-badge&logo=vercel&logoColor=white" height="35" alt="Portfolio"/>
   </a>
   <a href="https://www.instagram.com/isrmulo_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
