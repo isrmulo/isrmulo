@@ -25,9 +25,8 @@
 
 Sou um desenvolvedor em formação com experiência em TI, focado em entregar soluções práticas e eficientes. Tenho me dedicado ao estudo de tecnologias como JavaScript, Python, React, Next.js e Node.js. Busco oportunidades para crescer profissionalmente, aplicar meus conhecimentos e contribuir com projetos de qualidade que impactem positivamente.
 
-* 🌱 Atualmente aprendendo mais sobre: **[Complete aqui: ex: Arquitetura de Microserviços, Testes Automatizados Avançados, etc.]**
+* 🌱 Atualmente aprendendo mais sobre: **C# .NET**
 * 💬 Pergunte-me sobre: JavaScript, React, Next.js, Node.js, Desenvolvimento Web em geral.
-* ⚡ Curiosidade: **[Complete aqui: ex: Adoro jogos de estratégia / Sou entusiasta de astronomia, etc. (opcional)]**
 
 ---
 
