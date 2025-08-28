@@ -1,9 +1,17 @@
-<h2 align="center">👨‍💻 Rômulo Odorico</h2>
-<h4 align="left">
-💡 Estudante de Análise e Desenvolvimento de Sistemas, com experiência prática em desenvolvimento backend e frontend.  
-Atualmente tenho foco em **.NET e C#**, aplicando princípios de **Clean Code**, **SOLID**, **boas práticas de arquitetura** e **testes unitários** para garantir software legível, escalável e sustentável.  
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:434343,50:000000,100:434343&height=240&section=header&text=Rômulo%20Odorico&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35)
+
+<div align="center">
+  
+### 💡 Estudante de Análise e Desenvolvimento de Sistemas
+**Experiência prática em desenvolvimento backend e frontend**
+
+Atualmente tenho foco em **.NET e C#**, aplicando princípios de **Clean Code**, **SOLID**, **boas práticas de arquitetura** e **testes unitários** para garantir software legível, escalável e sustentável.
+
 Tenho vivência com **versionamento de código (Git/GitHub)**, **integração e entrega contínua (CI/CD)** e mantenho interesse em explorar conceitos de **DevOps** como apoio ao desenvolvimento, mas meu principal objetivo é evoluir como desenvolvedor **.NET**.
-</h4>
+
+</div>
+
+---
 
 <div align="center">
 <!-- Profile Views -->
@@ -20,18 +28,24 @@ Tenho vivência com **versionamento de código (Git/GitHub)**, **integração e 
        src="https://img.shields.io/github/followers/isrmulo?style=for-the-badge&label=Followers&color=5e81ac&logo=github" />
 </a>
 </div>
-<img align="right" alt="coding-gif" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXd4enRjdmpuZTZqZGl6Zmw3a3BkdTF1dG41dDRlYmRxamNuM2xlZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VLzbEtlbwJUFljcRbf/giphy.gif">
 
-🌟 Sobre mim
+<div align="center">
+  <img alt="coding-gif" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXd4enRjdmpuZTZqZGl6Zmw3a3BkdTF1dG41dDRlYmRxamNuM2xlZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VLzbEtlbwJUFljcRbf/giphy.gif">
+</div>
 
-🚀 Foco atual em desenvolvimento backend com .NET e C#.
-📐 Aplicação de Clean Code, princípios SOLID e boas práticas de arquitetura de software.
-🧩 Experiência com testes unitários, CI/CD e versionamento Git.
-💻 Também desenvolvo em JavaScript, React e outras stacks para projetos pessoais.
-📚 Interesse paralelo em DevOps, voltado a automação e melhoria de entrega, como complemento ao desenvolvimento.
+---
 
+## 🌟 Sobre mim  
+- 🚀 Foco atual em **desenvolvimento backend com .NET e C#**.  
+- 📐 Aplicação de **Clean Code**, **princípios SOLID** e **boas práticas de arquitetura de software**.  
+- 🧩 Experiência com **testes unitários**, **CI/CD** e **versionamento Git**.  
+- 💻 Também desenvolvo em **JavaScript, React e outras stacks** para projetos pessoais.  
+- 📚 Interesse paralelo em **DevOps**, voltado a automação e melhoria de entrega, como complemento ao desenvolvimento.  
 
-🌐 Conecte-se comigo
+---
+
+## 🌐 Conecte-se comigo
+
 <div align="center">
   <a href="mailto:romuloodorico702@gmail.com">
     <img width="50px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" />
@@ -47,16 +61,24 @@ Tenho vivência com **versionamento de código (Git/GitHub)**, **integração e 
   </a>
 </div>
 
-📊 GitHub Status
+---
+
+## 📊 GitHub Status
+
 <div align="center">
   <img width="398" src="https://github-readme-stats.vercel.app/api?username=isrmulo&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8"/> 
   <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=isrmulo&theme=nord&hide_border=false" alt="GitHub Streak Stats"><br/>
 </div>
 
-🛠️ Skills & Tools
+---
+
+## 🛠️ Skills & Tools  
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=dotnet,cs,flask,fastapi,python,javascript,react,tailwind,html,css,sass,bootstrap" /><br>
   <img src="https://skillicons.dev/icons?i=git,github,docker,nodejs,mongodb,mysql,vscode,figma,postgres" /><br>
 </div>
+
+---
 
 <p align="center">⚡ Perfil customizado por <strong>Rômulo Odorico</strong></p>
