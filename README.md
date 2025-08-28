@@ -1,106 +1,80 @@
-<h1 align="center">Olá! Sou o Rômulo Odorico 👋</h1>
-<p align="center">
-  <em>Desenvolvedor Full-stack Jr. apaixonado por criar soluções web inovadoras e eficientes.</em><br/>
-  <em>Atualmente cursando Análise e Desenvolvimento de Sistemas e sempre em busca de novos desafios e aprendizados!</em>
-</p>
 
-<p align="center">
+
+<h2 align="center">👨‍💻 Rômulo Odorico</h2>
+
+<h4 align="left">
+💡 Estudante de Análise e Desenvolvimento de Sistemas, com experiência prática em desenvolvimento backend e frontend.  
+Atualmente tenho foco em **.NET e C#**, aplicando princípios de **Clean Code**, **SOLID**, **boas práticas de arquitetura** e **testes unitários** para garantir software legível, escalável e sustentável.  
+Tenho vivência com **versionamento de código (Git/GitHub)**, **integração e entrega contínua (CI/CD)** e mantenho interesse em explorar conceitos de **DevOps** como apoio ao desenvolvimento, mas meu principal objetivo é evoluir como desenvolvedor **.NET**.
+</h4>
+
+---
+
+<div align="center">
+<!-- Profile Views -->
+<a href="https://github.com/isrmulo" target="_blank">
+  <img src="https://komarev.com/ghpvc/?username=isrmulo&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white&Color=black" 
+       alt="Profile Views Badge" /></a>
+
+<!-- Total Stars -->
+<a href="https://github.com/isrmulo?tab=repositories&sort=stargazers" target="_blank">
+  <img alt="Total Stars" title="Total stars on GitHub"
+       src="https://img.shields.io/github/stars/isrmulo?style=for-the-badge&label=Stars&color=bf616a&logo=github" /></a>
+
+<!-- Followers -->
+<a href="https://github.com/isrmulo?tab=followers" target="_blank">
+  <img alt="Followers" title="Follow me on GitHub"
+       src="https://img.shields.io/github/followers/isrmulo?style=for-the-badge&label=Followers&color=5e81ac&logo=github" />
+</a>
+</div>
+
+<img align="right" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
+
+---
+
+## 🌟 Sobre mim  
+- 🚀 Foco atual em **desenvolvimento backend com .NET e C#**.  
+- 📐 Aplicação de **Clean Code**, **princípios SOLID** e **boas práticas de arquitetura de software**.  
+- 🧩 Experiência com **testes unitários**, **CI/CD** e **versionamento Git**.  
+- 💻 Também desenvolvo em **JavaScript, React e outras stacks** para projetos pessoais.  
+- 📚 Interesse paralelo em **DevOps**, voltado a automação e melhoria de entrega, como complemento ao desenvolvimento.  
+
+---
+
+## 🌐 Conecte-se comigo
+<div align="center">
+  <a href="mailto:romuloodorico702@gmail.com">
+    <img width="50px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" />
+  </a> 
   <a href="https://www.linkedin.com/in/r%C3%B4mulo-odorico-752420271/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img width="50px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="LinkedIn" />
   </a>
-  <a href="https://v0-junior-portfolio-mu.vercel.app/#sobre" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-34D399?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <a href="https://github.com/isrmulo" target="_blank">
+    <img width="50px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" />
   </a>
-  <a href="mailto:romuloodorico702@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="https://vercel.com/isrmulos-projects/junior-portfolio" target="_blank">
+    <img width="50px" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" />
   </a>
-</p>
-
----
-
-## 🚀 Sobre Mim
-
-<img align="right" height="150" src="https://media.tenor.com/Rypu-zBagA4AAAAi/halloween-ghost.gif"  />
-
-Sou um desenvolvedor em formação com experiência em TI, focado em entregar soluções práticas e eficientes. Tenho me dedicado ao estudo de tecnologias como JavaScript, Python, React, Next.js e Node.js. Busco oportunidades para crescer profissionalmente, aplicar meus conhecimentos e contribuir com projetos de qualidade que impactem positivamente.
-
-* 🌱 Atualmente aprendendo mais sobre: **C# .NET**
-* 💬 Pergunte-me sobre: JavaScript, React, Next.js, Node.js, Desenvolvimento Web em geral.
-
----
-
-## 🛠️ Tecnologias que utilizo
-
-### 📌 Linguagens
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" title="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS3"/>
-</p>
-
-### ⚙️ Frameworks & Bibliotecas
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" height="40" title="Next.js (white logo)"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" title="Express (white logo)"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="40" title="Flask (white logo)"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" title="FastAPI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" title="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" title="Tailwind CSS"/>
-</p>
-
-### 🧰 Ferramentas e Outros
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" title="npm"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" title="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" title="Linux"/>
-</p>
-
----
-
-## 📊 Estatísticas no GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isrmulo&show_icons=true&theme=dracula&locale=pt-br" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isrmulo&layout=compact&langs_count=6&theme=dracula&locale=pt-br" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake contribution grid">
 </div>
 
 ---
 
-## 📫 Conecte-se Comigo
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/r%C3%B4mulo-odorico-752420271/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
-  </a>
-  <a href="https://v0-junior-portfolio-mu.vercel.app/#sobre" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-34D399?style=for-the-badge&logo=vercel&logoColor=white" height="35"/>
-  </a>
-  <a href="https://www.instagram.com/isrmulo_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35"/>
-  </a>
-  <a href="https://discordapp.com/users/SEU_USER_ID_DISCORD" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35"/>
-  </a>
-  <a href="https://t.me/HanSoloS2" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="35"/>
-  </a>
-  <a href="https://x.com/HanSolode4" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="35"/>
-  </a>
-</p>
-
-<br clear="both">
-
+## 📊 GitHub Status
 <div align="center">
-  <img src="https://profile-counter.glitch.me/isrmulo/count.svg?" />
+  <img width="398" src="https://github-readme-stats.vercel.app/api?username=isrmulo&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8"/> 
+  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=isrmulo&theme=nord&hide_border=false" alt="GitHub Streak Stats"><br/>
 </div>
+
+---
+
+## 🛠️ Skills & Tools  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,flask,fastapi,python,javascript,react,tailwind,html,css,sass,bootstrap" /><br>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,nodejs,mongodb,mysql,vscode,figma,postgres" /><br>
+</div>
+
+---
+
+
+
+<p align="center">⚡ Perfil customizado por <strong>Rômulo Odorico</strong></p>
