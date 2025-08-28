@@ -29,7 +29,7 @@ Tenho vivência com **versionamento de código (Git/GitHub)**, **integração e 
 </div>
 
 
-<img align="right" alt="coding-gif" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXd4enRjdmpuZTZqZGl6Zmw3a3BkdTF1dG41dDRlYmRxamNuM2xlZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VLzbEtlbwJUFljcRbf/giphy.gif">
+<img align="right" alt="coding-gif" width="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXd4enRjdmpuZTZqZGl6Zmw3a3BkdTF1dG41dDRlYmRxamNuM2xlZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VLzbEtlbwJUFljcRbf/giphy.gif">
 
 ---
 
