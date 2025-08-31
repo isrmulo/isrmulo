@@ -76,7 +76,7 @@ Tenho vivência com **versionamento de código (Git/GitHub)**, **integração e 
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=dotnet,cs,flask,fastapi,python,javascript,react,tailwind,html,css,sass,bootstrap" /><br>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,nodejs,mongodb,mysql,vscode,figma,postgres" /><br>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,nodejs,mongodb,mysql,vscode,figma,postgres,arch" /><br>
 </div>
 
 ---
